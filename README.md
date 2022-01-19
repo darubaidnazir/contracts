@@ -118,7 +118,7 @@ In order to run deployments, see [`./DEPLOYMENT.md`](./DEPLOYMENT.md).
 
 Contributions are welcomed and encouraged! You can do so by:
 
-- Creating an issue
+- Creating an issue.
 - Opening a PR
 
 If you are opening a PR, it is a good idea to first go to [The Graph Discord](https://discord.com/invite/vtvv7FP) or [The Graph Forum](https://forum.thegraph.com/) and discuss your idea! Discussions on the forum or Discord are another great way to contribute.
